@@ -354,6 +354,26 @@ Contributed to a secure consumer authentication platform leveraging Mobile Conne
 
 ---
 
+## <img src="https://img.shields.io/badge/-Contribution%20Summary-8B5CF6?style=flat-square&labelColor=0D1117" alt="summary" />
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajkolaganti&theme=github_dark" width="100%" alt="profile-details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajkolaganti&theme=github_dark" alt="repos-per-language" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajkolaganti&theme=github_dark" alt="most-commit-language" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajkolaganti&theme=github_dark" alt="stats-card" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ajkolaganti&theme=github_dark&utcOffset=-4" alt="productive-time" />
+
+</div>
+
+---
+
 ## <img src="https://img.shields.io/badge/-Contribution%20Snake-8B5CF6?style=flat-square&labelColor=0D1117" alt="snake" />
 
 <div align="center">
