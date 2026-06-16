@@ -14,7 +14,6 @@
 
 <br/><br/>
 
-<a href="https://sidhiratech.com"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>
 <a href="https://www.linkedin.com/in/kolagantiaj"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
 <a href="mailto:ajaykjava1010@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="email" /></a>
 <a href="https://github.com/Ajkolaganti"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
@@ -392,7 +391,6 @@ open_to:
 <a href="mailto:ajaykjava1010@gmail.com"><img src="https://img.shields.io/badge/Gmail-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="gmail" /></a>
 <a href="https://www.linkedin.com/in/kolagantiaj"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
 <a href="https://github.com/Ajkolaganti"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
-<a href="https://sidhiratech.com"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>
 <a href="https://instagram.com/hustlewithdevs"><img src="https://img.shields.io/badge/%40hustlewithdevs-CAFF3C?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" /></a>
 
 </div>
