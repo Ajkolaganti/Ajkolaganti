@@ -306,30 +306,6 @@ Contributed to a secure consumer authentication platform leveraging Mobile Conne
 
 ---
 
-## <img src="https://img.shields.io/badge/-Certifications-8B5CF6?style=flat-square&labelColor=0D1117" alt="certs" />
-
-<div align="center">
-
-**Amazon Web Services**
-
-<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117" alt="aws" />
-
-**Oracle**
-
-<img src="https://img.shields.io/badge/Oracle-Java%20Associate%20(OCA)-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" alt="oracle" />
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL-Programming%20%26%20DSA-2E7D32?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=0D1117" alt="nptel" />
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117" alt="cisco" />
-
-</div>
-
----
-
 ## <img src="https://img.shields.io/badge/-Coding%20Profiles-8B5CF6?style=flat-square&labelColor=0D1117" alt="coding" />
 
 <div align="center">
