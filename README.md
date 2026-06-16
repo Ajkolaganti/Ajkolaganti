@@ -1,69 +1,72 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,18,20,24&text=Ajay%20Kumar%20Kolaganti&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Senior%20Java%20%2F%20Spring%20Boot%20Engineer%20%7C%20Microservices%20%7C%20Cloud%20%7C%20Security&descSize=17&descAlignY=58&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20AJAY%20KUMAR%20KOLAGANTI&fontSize=38&fontAlignY=40&desc=Senior%20Java%20Engineer%20%E2%80%A2%20Security%20Specialist%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Content%20Creator&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner" />
 
 <a href="https://github.com/Ajkolaganti">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=7%2B+Years+Java+%7C+Spring+Boot+%7C+Microservices+%7C+AWS;IAM+%7C+RBAC+%7C+Secure+Coding+%7C+OWASP+%7C+Fortify;Finance+%7C+Telecom+%7C+Insurance+%7C+Regulated+Systems;Building+AI-first+products+%26+autonomous+agents+on+the+side" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Senior+Java+%2F+Spring+Boot+Engineer+%287%2B+yrs%29;%24+grep+-r+%22security%22+%E2%86%92+IAM+%7C+RBAC+%7C+OWASP+%7C+Fortify;%24+ls+%2Fdomains+%E2%86%92+Finance+%7C+Telecom+%7C+Insurance;%24+cat+side-projects.txt+%E2%86%92+5+SaaS+products+in+prod;%24+content+--channels+%E2%86%92+%40hustlewithdevs+%7C+AIWorksByAj" alt="typing" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/M.S.-Computer%20%26%20Information%20Systems-8B5CF6?style=flat-square&labelColor=0D1117&logo=graduation-cap&logoColor=A78BFA" alt="degree" />
-<img src="https://img.shields.io/badge/Bellevue%20University-6366F1?style=flat-square&labelColor=0D1117" alt="uni" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8D-Delray%20Beach%2C%20FL%20%C2%B7%20USA-7C3AED?style=flat-square&labelColor=0D1117" alt="location" />
+<img src="https://img.shields.io/badge/M.S.%20Computer%20%26%20Info%20Systems-Bellevue%20University-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=graduation-cap&logoColor=CAFF3C" alt="degree" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Delray%20Beach%2C%20FL-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="location" />
+<img src="https://img.shields.io/badge/%40hustlewithdevs-Instagram-CAFF3C?style=flat-square&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" />
 
 <br/><br/>
 
-<a href="https://sidhiratech.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="portfolio" /></a>
-<a href="https://www.linkedin.com/in/kolagantiaj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="linkedin" /></a>
-<a href="mailto:ajaykjava1010@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email" /></a>
-<a href="https://github.com/Ajkolaganti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="github" /></a>
+<a href="https://sidhiratech.com"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>
+<a href="https://www.linkedin.com/in/kolagantiaj"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
+<a href="mailto:ajaykjava1010@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="email" /></a>
+<a href="https://github.com/Ajkolaganti"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ajkolaganti&style=flat-square&color=8B5CF6&label=Profile+Views" alt="views" />
-<img src="https://img.shields.io/github/followers/Ajkolaganti?style=flat-square&color=8B5CF6&labelColor=0D1117&logo=github&label=Followers" alt="followers" />
-<img src="https://img.shields.io/github/stars/Ajkolaganti?style=flat-square&color=8B5CF6&labelColor=0D1117&logo=github&label=Stars" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=Ajkolaganti&style=flat-square&color=CAFF3C&labelColor=060D08&label=Profile+Views" alt="views" />
+<img src="https://img.shields.io/github/followers/Ajkolaganti?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers" alt="followers" />
+<img src="https://img.shields.io/github/stars/Ajkolaganti?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Stars" alt="stars" />
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/-About-8B5CF6?style=flat-square&labelColor=0D1117" alt="about" />
+## `> whoami`
 
-Senior Software Engineer with **7+ years** designing and delivering **secure, high-performance Java applications** across **finance, telecom, and insurance** — regulated environments where correctness, auditability, and security are non-negotiable.
+Senior Software Engineer with **7+ years** shipping **secure, regulated-grade Java systems** in finance, telecom, and insurance. By day: designing IAM-driven microservices, hardening enterprise codebases against Fortify &amp; OWASP vulnerabilities, scaling systems on AWS. By night: shipping **AI-first SaaS products**, voice agents, and automation pipelines under the **Sidhiratech** brand.
 
-Deep expertise in **Java 8/11/17, Spring Boot, Microservices, REST APIs, AWS**, and **IAM-driven security models**. Proven track record building **regulatory-compliant, scalable backend systems** with a strong focus on **authentication, authorization, secure coding, and cloud deployment**.
+I also create content teaching builders how to ship with AI at **[@hustlewithdevs](https://instagram.com/hustlewithdevs)** and **[AIWorksByAj](https://youtube.com)** on YouTube.
 
-Outside the day job, I ship **AI-first SaaS products** end to end — LLM applications, voice agents, and automation pipelines — owning everything from data model to production.
+```bash
+$ cat .profile
 
-```yaml
-Open To:
-  - Senior / Staff Software Engineer roles (Java / Spring Boot)
-  - Backend Platform & Microservices engineering
-  - AI-augmented product engineering
-  - High-security regulated environments (Finance · Telecom · Insurance)
+ROLE        =  Senior Java / Spring Boot Engineer
+EXP         =  7+ years in regulated environments
+DOMAIN      =  Finance  |  Telecom  |  Insurance
+SECURITY    =  RBAC  |  IAM  |  OWASP  |  Fortify  |  BlackDuck
+SIDE_BUILD  =  Velaa  |  Genimate  |  Hermes  |  DishRate  |  ResumePass
+CONTENT     =  @hustlewithdevs  |  AIWorksByAj
+LOCATION    =  Delray Beach, FL
+OPEN_TO     =  Senior/Staff Engineering  +  AI Product Roles
 ```
 
 ---
 
-## <img src="https://img.shields.io/badge/-Tech%20Stack-8B5CF6?style=flat-square&labelColor=0D1117" alt="stack" />
+## `> ls /tech-stack`
 
 <div align="center">
 
-**Languages**
+**[ Languages ]**
 
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,bash&theme=dark" alt="languages" />
 
-**Frontend**
+**[ Frontend ]**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" alt="frontend" />
 
-**Backend & Databases**
+**[ Backend &amp; Data ]**
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mongodb,mysql,redis&theme=dark" alt="backend" />
 
-**Cloud, DevOps & Tooling**
+**[ Cloud, DevOps &amp; Infra ]**
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,linux&theme=dark" alt="cloud" />
 
@@ -73,39 +76,39 @@ Open To:
 
 <div align="center">
 
-**Security & Observability**
+**[ Security &amp; Observability ]**
 
-<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white&labelColor=0D1117" alt="owasp" />
-<img src="https://img.shields.io/badge/OAuth%202.0%20%2F%20SSO%20%2F%20SAML-EB5424?style=flat-square&logo=auth0&logoColor=white&labelColor=0D1117" alt="oauth" />
-<img src="https://img.shields.io/badge/RBAC%20%2F%20IAM-8B5CF6?style=flat-square&labelColor=0D1117" alt="rbac" />
-<img src="https://img.shields.io/badge/Fortify%20%2F%20Black%20Duck-0068A5?style=flat-square&labelColor=0D1117" alt="fortify" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white&labelColor=0D1117" alt="splunk" />
-<img src="https://img.shields.io/badge/New%20Relic-008C99?style=flat-square&logo=newrelic&logoColor=white&labelColor=0D1117" alt="newrelic" />
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white&labelColor=0D1117" alt="cassandra" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=0D1117" alt="sqlserver" />
-<img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=0D1117" alt="oracledb" />
+<img src="https://img.shields.io/badge/OWASP-CAFF3C?style=flat-square&logo=owasp&logoColor=000000&labelColor=060D08" alt="owasp" />
+<img src="https://img.shields.io/badge/OAuth2%20%2F%20SSO%20%2F%20SAML-CAFF3C?style=flat-square&logo=auth0&logoColor=000000&labelColor=060D08" alt="oauth" />
+<img src="https://img.shields.io/badge/RBAC%20%2F%20IAM-CAFF3C?style=flat-square&labelColor=060D08" alt="rbac" />
+<img src="https://img.shields.io/badge/Fortify%20%2F%20Black%20Duck-CAFF3C?style=flat-square&labelColor=060D08" alt="fortify" />
+<img src="https://img.shields.io/badge/Splunk-CAFF3C?style=flat-square&logo=splunk&logoColor=000000&labelColor=060D08" alt="splunk" />
+<img src="https://img.shields.io/badge/New%20Relic-CAFF3C?style=flat-square&logo=newrelic&logoColor=000000&labelColor=060D08" alt="newrelic" />
+<img src="https://img.shields.io/badge/SQL%20Server-CAFF3C?style=flat-square&logo=microsoftsqlserver&logoColor=000000&labelColor=060D08" alt="sqlserver" />
+<img src="https://img.shields.io/badge/Oracle%20DB-CAFF3C?style=flat-square&logo=oracle&logoColor=000000&labelColor=060D08" alt="oracledb" />
+<img src="https://img.shields.io/badge/Cassandra-CAFF3C?style=flat-square&logo=apachecassandra&logoColor=000000&labelColor=060D08" alt="cassandra" />
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/-Security%20%26%20IAM%20Expertise-8B5CF6?style=flat-square&labelColor=0D1117" alt="security" />
+## `> cat security-expertise.json`
 
 | Domain | Proficiency | Details |
 | :-- | :-- | :-- |
-| **Authentication & Authorization** | `Advanced` | RBAC, group-driven IAM policies, OAuth 2.0, SSO/SAML, JWT, session management |
-| **Secure API Design** | `Advanced` | OWASP-compliant REST APIs, rate limiting, input validation, audit trails |
-| **Vulnerability Remediation** | `Advanced` | Fortify & Black Duck scanning, code blocker resolution in regulated environments |
-| **Data Protection** | `Proficient` | Data masking, encryption at rest & in transit, access restriction controls |
-| **Observability & Incident Response** | `Proficient` | Splunk, New Relic, Catchpoint — proactive detection & root-cause analysis |
-| **Cloud IAM** | `Proficient` | AWS IAM, EC2/S3 security configurations, Lambda access policies |
+| **Auth &amp; Authorization** | `&#9608;&#9608;&#9608;&#9608;&#9608; Expert` | RBAC, group-driven IAM, OAuth 2.0, SSO/SAML, JWT |
+| **Secure API Design** | `&#9608;&#9608;&#9608;&#9608;&#9608; Expert` | OWASP REST, rate limiting, input validation, audit trails |
+| **Vuln Remediation** | `&#9608;&#9608;&#9608;&#9608;&#9608; Expert` | Fortify &amp; Black Duck in regulated financial environments |
+| **Data Protection** | `&#9608;&#9608;&#9608;&#9608;&#9607; Senior` | Masking, encryption at rest &amp; in transit, access controls |
+| **Observability** | `&#9608;&#9608;&#9608;&#9608;&#9607; Senior` | Splunk, New Relic, Catchpoint — proactive incident detection |
+| **Cloud IAM** | `&#9608;&#9608;&#9608;&#9608;&#9607; Senior` | AWS IAM, EC2/S3 policies, Lambda access configurations |
 
 ---
 
-## <img src="https://img.shields.io/badge/-Featured%20Projects-8B5CF6?style=flat-square&labelColor=0D1117" alt="projects" />
+## `> ls /projects --sort=impact`
 
 <details open>
-<summary><b>Velaa &mdash; Timesheet &amp; Billing SaaS</b></summary>
+<summary><b>&#9654; Velaa &mdash; Timesheet &amp; Billing SaaS</b></summary>
 
 <br/>
 
@@ -115,21 +118,19 @@ A multi-tenant timesheet and billing platform for consulting firms and SMBs, wit
 | :-- | :-- |
 | **Stack** | Next.js &middot; Spring Boot &middot; PostgreSQL &middot; Stripe &middot; Railway |
 | **Scale** | Multi-tenant, role-based billing across organizations |
-| **Performance** | Async invoicing &amp; cached aggregations for fast dashboards |
+| **Performance** | Async invoicing &amp; cached aggregations |
 | **Security** | JWT auth, tenant isolation, encrypted secrets |
 | **Impact** | End-to-end SaaS powering real consulting workflows |
-| **Repository** | [`View`](https://github.com/Ajkolaganti) |
-
-Designed the full data model and billing engine, with a cold-outreach automation layer for go-to-market.
+| **Repo** | [`github.com/Ajkolaganti`](https://github.com/Ajkolaganti) |
 
 </details>
 
 <details>
-<summary><b>Genimate &mdash; AI Motion-Graphics Video Generator</b></summary>
+<summary><b>&#9654; Genimate &mdash; AI Motion-Graphics Video Generator</b></summary>
 
 <br/>
 
-Generates cinematic motion-graphics videos from prompts using a programmatic render pipeline.
+Programmatic cinematic video generation from text prompts using a queue-driven render pipeline.
 
 | Aspect | Detail |
 | :-- | :-- |
@@ -137,35 +138,31 @@ Generates cinematic motion-graphics videos from prompts using a programmatic ren
 | **Scale** | Queue-driven render server with horizontal scaling |
 | **Performance** | JSON-driven component assembly + render correction layer |
 | **Security** | Isolated render workers, signed asset access |
-| **Impact** | Turns text prompts into production-ready branded video |
-| **Repository** | [`View`](https://github.com/Ajkolaganti) |
-
-Built the component-assembly engine and live preview pipeline targeting Remotion Lambda for scale.
+| **Impact** | Text prompt &rarr; production-ready branded video |
+| **Repo** | [`github.com/Ajkolaganti`](https://github.com/Ajkolaganti) |
 
 </details>
 
 <details>
-<summary><b>Hermes &mdash; Autonomous Agent &amp; Voice System</b></summary>
+<summary><b>&#9654; Hermes &mdash; Autonomous Agent &amp; Voice System</b></summary>
 
 <br/>
 
-A self-hosted autonomous agent that executes tasks and places outbound phone calls in a natural first-person voice.
+Self-hosted autonomous agent that executes tasks and places outbound calls in a natural first-person voice.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Node.js &middot; n8n &middot; Voice (Vapi/Twilio) &middot; MCP &middot; Azure VM |
+| **Stack** | Node.js &middot; n8n &middot; Vapi/Twilio &middot; MCP &middot; Azure VM |
 | **Scale** | Always-on systemd service with MCP tool exposure |
-| **Performance** | Event-driven Hermes &rarr; n8n &rarr; voice &rarr; notification loop |
+| **Performance** | Hermes &rarr; n8n &rarr; voice &rarr; Telegram notification loop |
 | **Security** | Private VM, scoped credentials, tunnelled HTTPS |
-| **Impact** | Hands-off task execution &amp; conversational outreach |
-| **Repository** | [`View`](https://github.com/Ajkolaganti) |
-
-Integrated a skills framework and telephony layer for fully autonomous, agent-driven calling.
+| **Impact** | Fully autonomous task execution &amp; outbound calling |
+| **Repo** | [`github.com/Ajkolaganti`](https://github.com/Ajkolaganti) |
 
 </details>
 
 <details>
-<summary><b>DishRate &mdash; &ldquo;Letterboxd for Food&rdquo;</b></summary>
+<summary><b>&#9654; DishRate &mdash; &ldquo;Letterboxd for Food&rdquo;</b></summary>
 
 <br/>
 
@@ -173,208 +170,185 @@ Dish-level food rating platform with geospatial discovery and AI-enriched data s
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Java 21 &middot; Spring Boot 3 &middot; PostgreSQL/PostGIS &middot; Redis &middot; AWS S3 &middot; GPT-4o Vision |
+| **Stack** | Java 21 &middot; Spring Boot 3 &middot; PostGIS &middot; Redis &middot; AWS S3 &middot; GPT-4o Vision |
 | **Scale** | Geospatial queries over enriched place + dish datasets |
 | **Performance** | Redis caching + PostGIS spatial indexing |
 | **Security** | Token auth, rate limiting, S3 signed uploads |
-| **Impact** | Granular dish-level ratings vs. restaurant-level reviews |
-| **Repository** | [`View`](https://github.com/Ajkolaganti) |
-
-Architected the OpenStreetMap &rarr; Google Places enrichment pipeline and vision-based dish scaffolding.
+| **Impact** | Dish-level ratings vs. generic restaurant reviews |
+| **Repo** | [`github.com/Ajkolaganti`](https://github.com/Ajkolaganti) |
 
 </details>
 
 <details>
-<summary><b>ResumePass &mdash; AI ATS Resume Optimizer</b></summary>
+<summary><b>&#9654; ResumePass &mdash; AI ATS Resume Optimizer</b></summary>
 
 <br/>
 
-AI-powered resume optimization and job-matching platform with dual-provider AI routing.
+AI-powered resume optimization with dual-provider routing (Claude + GPT) and a FastAPI job scraper.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Next.js &middot; Spring Boot &middot; PostgreSQL &middot; Claude &middot; GPT &middot; FastAPI (job scraper) |
-| **Scale** | Multi-provider AI routing with fallback search chain |
-| **Performance** | Consolidated single-call rewrite (major token-cost reduction) |
+| **Stack** | Next.js &middot; Spring Boot &middot; PostgreSQL &middot; Claude &middot; GPT &middot; FastAPI |
+| **Scale** | Multi-provider AI with fallback search chain |
+| **Performance** | Consolidated single-call rewrite &mdash; major token-cost reduction |
 | **Security** | Cryptographic API keys, timing-safe comparison |
 | **Impact** | ATS scoring + tailored rewrites for job seekers |
-| **Repository** | [`View`](https://github.com/Ajkolaganti) |
-
-Built the dual-AI architecture (writing vs. structured extraction) and the ATS scoring engine.
+| **Repo** | [`resume-ats.online`](https://resume-ats.online) |
 
 </details>
 
 ---
 
-## <img src="https://img.shields.io/badge/-Experience-8B5CF6?style=flat-square&labelColor=0D1117" alt="experience" />
+## `> cat experience.log`
 
-**Senior Java Developer &mdash; Lakeview Loan Servicing / Bayview Asset Management**  
-`Nov 2024 &mdash; Present`
+**`[2024-11 → NOW]`** &nbsp; Senior Java Developer &mdash; **Lakeview Loan Servicing / Bayview Asset Management**
 
-Designed and developed secure Java-based microservices for a large-scale **Defect Management System (DMS)** supporting banking and loan servicing operations.
+Built secure Java microservices for a large-scale **Defect Management System (DMS)** in banking and loan servicing.
 
-- Built RESTful APIs with Spring Boot & Hibernate/JPA for defect lifecycle management, document handling, and task orchestration
-- Implemented RBAC and group-driven authorization aligned with IAM best practices
-- Developed complex prioritization logic based on investor rules (Ginnie Mae, Fannie Mae, EBO/Repurchase), loan status, and delinquency metrics
-- Wrote optimized SQL Server queries and stored procedures for high-volume transactional workflows
-- Ensured secure data handling, audit trails, and workflow traceability for regulatory compliance
+- Spring Boot + Hibernate/JPA APIs for defect lifecycle management, document handling, task orchestration
+- RBAC and group-driven authorization per IAM best practices
+- Complex investor rule logic (Ginnie Mae, Fannie Mae, EBO/Repurchase) and delinquency-based prioritization
+- Optimized SQL Server queries and stored procedures for high-volume transactional workflows
 
-`Java` `Spring Boot` `Hibernate/JPA` `SQL Server` `RBAC` `IAM` `REST APIs` `Microservices`
+`Java` `Spring Boot` `SQL Server` `RBAC` `IAM` `Hibernate/JPA` `Microservices`
 
 <br/>
 
-**Senior Full Stack / Java Engineer &mdash; Verizon (Pyramid Consulting / Innova Solutions)**  
-`Apr 2021 &mdash; Sep 2024`
+**`[2021-04 → 2024-09]`** &nbsp; Senior Full Stack / Java Engineer &mdash; **Verizon (Pyramid Consulting / Innova Solutions)**
 
-Developed and maintained Spring Boot microservices in AWS cloud environments for Verizon's enterprise platforms.
+Enterprise Spring Boot microservices on AWS for Verizon's platforms.
 
-- Built and consumed secure REST APIs focused on performance, scalability, and fault tolerance
-- Containerized applications with Docker and deployed via Kubernetes
-- Led Java 8 &rarr; 17 upgrade leveraging streams, lambdas, and modern language features
-- Integrated IAM concepts, access control, and security policies across services
-- Monitored with Splunk, New Relic, and Catchpoint; participated in CI/CD and Agile ceremonies
+- Secure REST APIs, Docker + Kubernetes deployments, Java 8 &rarr; 17 modernization
+- IAM integration, Splunk / New Relic / Catchpoint monitoring, CI/CD and Agile
 
-`Java 8/11/17` `Spring Boot` `AWS` `Docker` `Kubernetes` `Splunk` `New Relic` `Jenkins` `Agile`
+`Java 8/11/17` `Spring Boot` `AWS` `Docker` `Kubernetes` `Splunk` `New Relic`
 
 <br/>
 
-**Java / Spring Boot Developer &mdash; Nationwide Insurance**  
-`Aug 2020 &mdash; Apr 2021`
+**`[2020-08 → 2021-04]`** &nbsp; Java / Spring Boot Developer &mdash; **Nationwide Insurance**
 
-Developed backend services for an **insurance premium calculation platform** with a focus on security and high availability.
-
-- Implemented multithreading, exception handling, and secure API patterns in Java 8 + Spring Boot
-- Applied secure coding standards and contributed to system hardening efforts
-- Delivered compliant, high-availability services in collaboration with cross-functional teams
+Backend services for an insurance premium calculation platform; secure coding standards and system hardening.
 
 `Java 8` `Spring Boot` `Hibernate` `Secure Coding` `REST APIs`
 
 <br/>
 
-**Java Developer &mdash; Security Focus &mdash; Verizon (Infosys)**  
-`Jan 2020 &mdash; Jul 2020`
+**`[2020-01 → 2020-07]`** &nbsp; Java Developer &mdash; Security Focus &mdash; **Verizon (Infosys)**
 
-Focused on security vulnerability remediation and microservices hardening across Verizon's enterprise Java applications.
+Fortify &amp; Black Duck vulnerability remediation; data masking; Spring Boot microservices on AWS.
 
-- Remediated Fortify and Black Duck security vulnerabilities in production codebases
-- Implemented data masking and access restrictions to protect sensitive customer data
-- Built microservices with Spring Boot; configured Jenkins CI/CD pipelines on AWS
-
-`Java` `Spring Boot` `Fortify` `Black Duck` `Docker` `AWS` `Jenkins` `GitLab`
+`Java` `Fortify` `Black Duck` `Docker` `AWS` `Jenkins` `GitLab`
 
 <br/>
 
-**Java / J2EE Developer (Security & Fraud Systems) &mdash; Equifax, Atlanta GA**  
-`Aug 2018 &mdash; Dec 2020`  
-*Project: Insta Touch ID &mdash; Mobile Connect Fraud Authentication Platform*
+**`[2018-08 → 2020-12]`** &nbsp; Java / J2EE Developer &mdash; **Equifax, Atlanta GA**  
+*Insta Touch ID &mdash; Mobile Connect Fraud Authentication Platform*
 
-Contributed to a secure consumer authentication platform leveraging Mobile Connect and Insta Touch ID to detect and prevent fraudulent acquisition requests in real time.
+Secure consumer auth platform to detect and prevent fraudulent acquisition requests in real time.
 
-- Developed and consumed SOAP-based web services (XML, WSDL, proxy class generation)
-- Built RESTful APIs supporting authentication workflows and backend integrations
-- Remediated Fortify/OWASP vulnerabilities in a regulated financial environment
-- Wrote complex SQL queries, stored procedures, triggers, and packages for high-volume identity validation
-- Set up Jenkins CI/CD pipelines and Artifactory publishing; scripted Linux automation with Python and Shell
+- SOAP web services (XML/WSDL), RESTful APIs, Fortify/OWASP remediation in a regulated financial environment
+- Complex Oracle SQL, stored procedures, triggers; Jenkins CI/CD + Artifactory; Linux automation (Python/Shell)
 
-`Java/J2EE` `Spring` `SOAP` `REST` `XML` `Oracle` `SQL` `Jenkins` `Fortify` `OWASP` `Python` `Shell`
+`Java/J2EE` `Spring` `SOAP` `Oracle` `SQL` `Jenkins` `Fortify` `OWASP` `Python` `Shell`
 
 ---
 
-## <img src="https://img.shields.io/badge/-Achievements-8B5CF6?style=flat-square&labelColor=0D1117" alt="achievements" />
+## `> echo $ACHIEVEMENTS`
 
 <div align="center">
 
-| Recognition | Details |
+| Win | Detail |
 | :-- | :-- |
-| **Regulated Industry Delivery** | Shipped production Java systems across finance (Lakeview/Equifax), telecom (Verizon), and insurance (Nationwide) |
-| **Security Hardening** | Resolved Fortify, Black Duck & OWASP vulnerabilities in enterprise codebases at Equifax and Verizon |
-| **Java Modernization** | Led Java 8 &rarr; 17 migration for Verizon's enterprise applications |
-| **Solo Product Builder** | Designed & deployed 5+ full-stack SaaS products end-to-end under Sidhiratech brand |
-| **AI Systems** | Built autonomous voice agents and LLM automation pipelines from scratch |
+| &#9646; **Regulated Delivery** | Production Java systems in finance (Lakeview/Equifax), telecom (Verizon), insurance (Nationwide) |
+| &#9646; **Security Hardening** | Resolved Fortify, Black Duck &amp; OWASP vulnerabilities across enterprise codebases |
+| &#9646; **Java Modernization** | Led Java 8 &rarr; 17 migration on Verizon enterprise applications |
+| &#9646; **Solo Builder** | 5+ full-stack SaaS products shipped under Sidhiratech — all solo |
+| &#9646; **AI Systems** | Autonomous voice agents + LLM automation pipelines built from scratch |
+| &#9646; **Content Creator** | @hustlewithdevs (Instagram) + AIWorksByAj (YouTube) |
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/-Education-8B5CF6?style=flat-square&labelColor=0D1117" alt="education" />
+## `> git log --oneline /education`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/M.S.%20%E2%80%94%20Computer%20%26%20Information%20Systems-Bellevue%20University-8B5CF6?style=for-the-badge&logo=academia&logoColor=white&labelColor=0D1117" alt="education" />
+<img src="https://img.shields.io/badge/M.S.%20Computer%20%26%20Information%20Systems-Bellevue%20University-CAFF3C?style=for-the-badge&logo=academia&logoColor=000000&labelColor=060D08" alt="education" />
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/-Coding%20Profiles-8B5CF6?style=flat-square&labelColor=0D1117" alt="coding" />
+## `> cat coding-profiles.sh`
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Ajkolaganti/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="leetcode" /></a>
-<a href="https://www.geeksforgeeks.org/user/Ajkolaganti/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117" alt="gfg" /></a>
-<a href="https://www.hackerrank.com/Ajkolaganti"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=0D1117" alt="hackerrank" /></a>
-<a href="https://www.codechef.com/users/Ajkolaganti"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" alt="codechef" /></a>
+<a href="https://leetcode.com/u/Ajkolaganti/"><img src="https://img.shields.io/badge/LeetCode-CAFF3C?style=for-the-badge&logo=leetcode&logoColor=000000&labelColor=060D08" alt="leetcode" /></a>
+<a href="https://www.geeksforgeeks.org/user/Ajkolaganti/"><img src="https://img.shields.io/badge/GeeksforGeeks-CAFF3C?style=for-the-badge&logo=geeksforgeeks&logoColor=000000&labelColor=060D08" alt="gfg" /></a>
+<a href="https://www.hackerrank.com/Ajkolaganti"><img src="https://img.shields.io/badge/HackerRank-CAFF3C?style=for-the-badge&logo=hackerrank&logoColor=000000&labelColor=060D08" alt="hackerrank" /></a>
+<a href="https://www.codechef.com/users/Ajkolaganti"><img src="https://img.shields.io/badge/CodeChef-CAFF3C?style=for-the-badge&logo=codechef&logoColor=000000&labelColor=060D08" alt="codechef" /></a>
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/-GitHub%20Analytics-8B5CF6?style=flat-square&labelColor=0D1117" alt="analytics" />
+## `> git stats --global`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ajkolaganti&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajkolaganti&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ajkolaganti&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" alt="stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajkolaganti&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=39FF14&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" alt="streak" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajkolaganti&layout=compact&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="top-langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajkolaganti&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" alt="top-langs" />
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/-GitHub%20Trophies-8B5CF6?style=flat-square&labelColor=0D1117" alt="trophies" />
+## `> trophy-case --display`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ajkolaganti&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ajkolaganti&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/-Contribution%20Activity-8B5CF6?style=flat-square&labelColor=0D1117" alt="activity" />
+## `> activity-graph --timeline`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajkolaganti&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9&area=true&hide_border=true" alt="activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajkolaganti&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" alt="activity-graph" />
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/-Contribution%20Summary-8B5CF6?style=flat-square&labelColor=0D1117" alt="summary" />
+## `> contribution-report --detailed`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajkolaganti&theme=github_dark" width="100%" alt="profile-details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajkolaganti&theme=2077" width="100%" alt="profile-details" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajkolaganti&theme=github_dark" alt="repos-per-language" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajkolaganti&theme=github_dark" alt="most-commit-language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajkolaganti&theme=2077" alt="repos-per-language" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajkolaganti&theme=2077" alt="most-commit-language" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajkolaganti&theme=github_dark" alt="stats-card" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ajkolaganti&theme=github_dark&utcOffset=-4" alt="productive-time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajkolaganti&theme=2077" alt="stats-card" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ajkolaganti&theme=2077&utcOffset=-4" alt="productive-time" />
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/-Contribution%20Snake-8B5CF6?style=flat-square&labelColor=0D1117" alt="snake" />
+## `> ./snake-animation.sh`
 
 <div align="center">
 
@@ -384,33 +358,42 @@ Contributed to a secure consumer authentication platform leveraging Mobile Conne
 
 ---
 
-## <img src="https://img.shields.io/badge/-Current%20Focus-8B5CF6?style=flat-square&labelColor=0D1117" alt="focus" />
+## `> cat current-focus.yaml`
 
 ```yaml
-Learning:
+learning:
   - Agentic AI architectures & multi-agent orchestration
-  - Remotion Lambda & scalable programmatic video rendering
-Building:
-  - Genimate (AI motion-graphics generator)
-  - Hermes autonomous voice-agent platform
-Exploring:
+  - Remotion Lambda for scalable programmatic video
+
+building:
+  - Genimate  # AI motion-graphics generator
+  - Hermes    # Autonomous voice-agent platform
+
+creating:
+  - instagram: "@hustlewithdevs"  # AI tools & coding content
+  - youtube:   "AIWorksByAj"      # Football/AI automation videos
+
+exploring:
   - Real-time voice AI & low-latency LLM pipelines
   - Distributed event-driven systems at scale
-Open To:
-  - Senior / Staff Java & Backend Engineering roles
-  - Regulated, high-security engineering environments
+
+open_to:
+  - Senior / Staff Java & Backend Engineering
+  - Regulated, high-security environments
+  - AI product engineering teams
 ```
 
 ---
 
-## <img src="https://img.shields.io/badge/-Connect-8B5CF6?style=flat-square&labelColor=0D1117" alt="connect" />
+## `> ping me`
 
 <div align="center">
 
-<a href="mailto:ajaykjava1010@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/kolagantiaj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="linkedin" /></a>
-<a href="https://github.com/Ajkolaganti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="github" /></a>
-<a href="https://sidhiratech.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="portfolio" /></a>
+<a href="mailto:ajaykjava1010@gmail.com"><img src="https://img.shields.io/badge/Gmail-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/kolagantiaj"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
+<a href="https://github.com/Ajkolaganti"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
+<a href="https://sidhiratech.com"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>
+<a href="https://instagram.com/hustlewithdevs"><img src="https://img.shields.io/badge/%40hustlewithdevs-CAFF3C?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" /></a>
 
 </div>
 
@@ -418,8 +401,10 @@ Open To:
 
 <div align="center">
 
-<i>&ldquo;Build systems that are secure by design, not secure by accident.&rdquo;</i>
+<sub><i>// by day: enterprise security engineer &nbsp;|&nbsp; by night: shipping SaaS products &amp; AI systems</i></sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,18,20,24" alt="footer" />
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f08&fontColor=CAFF3C" alt="footer" />
 
 </div>
