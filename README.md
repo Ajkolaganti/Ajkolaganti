@@ -3,14 +3,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20AJAY%20KUMAR%20KOLAGANTI&fontSize=38&fontAlignY=40&desc=Senior%20Java%20Engineer%20%E2%80%A2%20Security%20Specialist%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Content%20Creator&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner" />
 
 <a href="https://github.com/Ajkolaganti">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Senior+Java+%2F+Spring+Boot+Engineer+%287%2B+yrs%29;%24+grep+-r+%22security%22+%E2%86%92+IAM+%7C+RBAC+%7C+OWASP+%7C+Fortify;%24+ls+%2Fdomains+%E2%86%92+Finance+%7C+Telecom+%7C+Insurance;%24+cat+side-projects.txt+%E2%86%92+5+SaaS+products+in+prod;%24+content+--channels+%E2%86%92+%40hustlewithdevs+%7C+AIWorksByAj" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Senior+Java+%2F+Spring+Boot+Engineer+%287%2B+yrs%29;%24+grep+-r+%22security%22+%E2%86%92+IAM+%7C+RBAC+%7C+OWASP+%7C+Fortify;%24+ls+%2Fdomains+%E2%86%92+Finance+%7C+Telecom+%7C+Insurance;%24+cat+side-projects.txt+%E2%86%92+5+SaaS+products+in+prod;%24+content+--channels+%E2%86%92+%40hey_jay93+%7C+AIWorksByAj" alt="typing" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/M.S.%20Computer%20%26%20Info%20Systems-Bellevue%20University-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=graduation-cap&logoColor=CAFF3C" alt="degree" />
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_Delray%20Beach%2C%20FL-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="location" />
-<img src="https://img.shields.io/badge/%40hustlewithdevs-Instagram-CAFF3C?style=flat-square&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" />
+<img src="https://img.shields.io/badge/%40hey_jay93-Instagram-CAFF3C?style=flat-square&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" />
 
 <br/><br/>
 
@@ -42,7 +42,7 @@ EXP         =  7+ years in regulated environments
 DOMAIN      =  Finance  |  Telecom  |  Insurance
 SECURITY    =  RBAC  |  IAM  |  OWASP  |  Fortify  |  BlackDuck
 SIDE_BUILD  =  Velaa  |  Genimate  |  Hermes  |  DishRate  |  ResumePass
-CONTENT     =  @hustlewithdevs  |  AIWorksByAj
+CONTENT     =  @hey_jay93  |  AIWorksByAj
 LOCATION    =  Delray Beach, FL
 OPEN_TO     =  Senior/Staff Engineering  +  AI Product Roles
 ```
@@ -261,9 +261,9 @@ Secure consumer auth platform to detect and prevent fraudulent acquisition reque
 | &#9646; **Regulated Delivery** | Production Java systems in finance (Lakeview/Equifax), telecom (Verizon), insurance (Nationwide) |
 | &#9646; **Security Hardening** | Resolved Fortify, Black Duck &amp; OWASP vulnerabilities across enterprise codebases |
 | &#9646; **Java Modernization** | Led Java 8 &rarr; 17 migration on Verizon enterprise applications |
-| &#9646; **Solo Builder** | 5+ full-stack SaaS products shipped under Sidhiratech — all solo |
+| &#9646; **Solo Builder** | 5+ full-stack SaaS products shipped — all solo |
 | &#9646; **AI Systems** | Autonomous voice agents + LLM automation pipelines built from scratch |
-| &#9646; **Content Creator** | @hustlewithdevs (Instagram) + AIWorksByAj (YouTube) |
+| &#9646; **Content Creator** | @hey_jay93 (Instagram) + AIWorksByAj (YouTube) |
 
 </div>
 
@@ -369,7 +369,7 @@ building:
   - Hermes    # Autonomous voice-agent platform
 
 creating:
-  - instagram: "@hustlewithdevs"  # AI tools & coding content
+  - instagram: "@hey_jay93"  # AI tools & coding content
   - youtube:   "AIWorksByAj"      # Football/AI automation videos
 
 exploring:
@@ -391,7 +391,7 @@ open_to:
 <a href="mailto:ajaykjava1010@gmail.com"><img src="https://img.shields.io/badge/Gmail-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="gmail" /></a>
 <a href="https://www.linkedin.com/in/kolagantiaj"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
 <a href="https://github.com/Ajkolaganti"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
-<a href="https://instagram.com/hustlewithdevs"><img src="https://img.shields.io/badge/%40hustlewithdevs-CAFF3C?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" /></a>
+<a href="https://instagram.com/hey_jay93"><img src="https://img.shields.io/badge/%40hey_jay93-CAFF3C?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" /></a>
 
 </div>
 
