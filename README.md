@@ -30,9 +30,9 @@
 
 ## `> whoami`
 
-Senior Software Engineer with **7+ years** shipping **secure, regulated-grade Java systems** in finance, telecom, and insurance. By day: designing IAM-driven microservices, hardening enterprise codebases against Fortify &amp; OWASP vulnerabilities, scaling systems on AWS. By night: shipping **AI-first SaaS products**, voice agents, and automation pipelines under the **Sidhiratech** brand.
+Senior Software Engineer with **7+ years** shipping **secure, regulated-grade Java systems** in finance, telecom, and insurance. By day: designing IAM-driven microservices, hardening enterprise codebases against Fortify &amp; OWASP vulnerabilities, scaling systems on AWS.
 
-I also create content teaching builders how to ship with AI at **[@hustlewithdevs](https://instagram.com/hustlewithdevs)** and **[AIWorksByAj](https://youtube.com)** on YouTube.
+I also create content teaching builders how to ship with AI at **[@hey_jay93](https://instagram.com/hey_jay93)** and **[AIWorksByAj](https://youtube.com)** on YouTube.
 
 ```bash
 $ cat .profile
