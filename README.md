@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/aj-terminal-raster-hero.svg" alt="Ajay Kumar Kolaganti terminal raster portrait hero" />
+<img width="100%" src="assets/aj-terminal-raster-hero.gif" alt="Ajay Kumar Kolaganti animated terminal raster portrait hero" />
 
 <br/>
 
