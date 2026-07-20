@@ -1,5 +1,9 @@
 <div align="center">
 
+<img width="100%" src="assets/terminal-contributions.png" alt="Terminal-style GitHub contributions heatmap" />
+
+<br/>
+
 <img width="100%" src="assets/aj-terminal-raster-hero.gif" alt="Ajay Kumar Kolaganti animated terminal raster portrait hero" />
 
 <br/>
