@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20AJAY%20KUMAR%20KOLAGANTI&fontSize=38&fontAlignY=40&desc=Senior%20Java%20Engineer%20%E2%80%A2%20Security%20Specialist%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Content%20Creator&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner" />
-
-<a href="https://github.com/Ajkolaganti">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Senior+Java+%2F+Spring+Boot+Engineer+%287%2B+yrs%29;%24+grep+-r+%22security%22+%E2%86%92+IAM+%7C+RBAC+%7C+OWASP+%7C+Fortify;%24+ls+%2Fdomains+%E2%86%92+Finance+%7C+Telecom+%7C+Insurance;%24+cat+side-projects.txt+%E2%86%92+5+SaaS+products+in+prod;%24+content+--channels+%E2%86%92+%40hey_jay93+%7C+AIWorksByAj" alt="typing" />
-</a>
+<img width="100%" src="assets/aj-terminal-raster-hero.svg" alt="Ajay Kumar Kolaganti terminal raster portrait hero" />
 
 <br/>
 
